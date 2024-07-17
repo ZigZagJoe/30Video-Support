@@ -1,0 +1,37 @@
+                 WIRE LIST, HARNESS
+FROM   Color   TO   Length   Notes
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+J1- 1  BLK   J2- 1   11"
+J1- 2  BLK   J2- 2   11"    twisted w/WHT (J2- 9)
+J1- 9  WHT   J2- 9   11"    twisted w/BLK (J2- 2)
+J1- 3  BLK   J4- 5    9"    twisted w/RED (J1-10)
+J1-10  RED   J4- 1    9"    twisted w/BLK (J1- 3)
+J1- 4  BLK   J2- 4   11"
+J1- 5  BLK   J2- 5   11"
+J1- 6  BLU   J2- 6   11"
+J1- 7  GRN   J2- 7   11"
+J1- 8  BLK   J2- 8   11"
+J1-11  GRY   J4- 7    9"    pass thru two chokes, big and small
+J1-12  ORN   J2-12   11"
+J1-13  ORN   J2-13   11"
+J1-14  YEL   J2-14   11"
+
+J2- 3  BLK   J4- 3   11"    twisted w/RED (J2-10)
+J2-10  RED   J4- 2   11"    twisted w/BLK (J2- 3)
+J2-11  GRY   J4- 6   11"    pass thru choke w/tp BLK/YEL from J3
+
+J3- 1  ORN   J5- 7    8"
+J3- 2  BRN   J5- 4    8"
+J3- 3  BLK   J4- 4          twisted w/YEL (J3- 8)
+J3- 8  YEL   J4- 8          twisted w/BLK (J3- 3)
+J3- 7  GRN   J5- 5    8"
+J3-10  BLU   J5- 1    8"
+J3-12  RED   J5- 2    8"
+
+J4-09  YEL   J5- 6    7"    twisted w/BLK (J4-10)
+J4-10  BLK   J5- 3    7"    twisted w/YEL (J4-09)
+
+J5- 8  BLK            6"    lug, to SE/30 frame.
+J5- 8  BLK           12"    lug, to CRT frame
+
+Sourced from GAMBA and independently verified

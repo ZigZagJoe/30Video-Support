@@ -1,0 +1,23 @@
+﻿Ref,PN,Desc,Qty
+"C1,2,3",BC5180-ND,"Diode, 1N914B",3
+C4,860240672002,"Capacitor, electrolytic, 10uF, 50VDC, 105°C",1
+C5,EEU-FC1C470B,"Capacitor, electrolytic, 47uF, 10VDC, 105°C",1
+C6,B32521C1104J000,"Capacitor, film, 0.1uF, 100VDC",1
+C7,K104Z15Y5VE5TL2,"Capacitor, multi-layered ceramic, 0.1uF, 25VDC",1
+C8,860020372006,"Capacitor, electrolytic, 100uF, 16VDC, 105°C",1
+C9,860080772001,"Capacitor, electrolytic, 100uF, 63VDC, 105°C",1
+"D1,2,3",1N914BTR,"Diode, 1N914B",3
+J1,0353180820,"Connector, 8 pin, right-angle; Molex 5569 series",1
+"L1,2",78F270J-RC,"Inductor, 27 uH 5%",2
+"Q1,2",2N5550TFR,"Transistor, NPN",2
+Q3,PN2222ABU,"Transistor, NPN",1
+"R1,2",RR02J1K0TB,"Resistor, 1.0K ohms, 2W 5%",2
+R3,MFR50SFTE52-75R,"Resistor, 75 ohms, 1/4W 5%",1
+R4,MFR50SFTE52-300R,"Resistor, 300 ohms, 1/4W 5%",1
+R5,MFR50SFTE52-560R,"Resistor, 560 ohms, 1/4W 5%",1
+R6,MFR50SFTE52-20K,"Resistor, 20k ohms, 1/4W 5%",1
+R7,MFR50SFTE52-12K,"Resistor, 12K ohms, 1/4W 5%",1
+R8,RNMF12FTD1K50,"Resistor, 1.5K ohms, 1/4W 5%",1
+"R9,10,11",CCF55100KFKE36,"Resistor, 100K ohms, 1/2W 5%",3
+RV1,"3306W-1-201","Resistor, variable, 200 ohms",1
+Tube Socket,n/a,7 pin minature tube socket,1
