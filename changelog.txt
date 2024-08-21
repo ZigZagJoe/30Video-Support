@@ -1,9 +1,13 @@
-30Video_Update_v1.0.0.1917-beta
+30Video_SI_Update_v1.0.0.1926-rel.bin
+
+First version for SI card. Includes changes from GS card, except where those functions concern grayscale functionality.
+
+30Video_GS_Update_v1.0.0.1917-beta
 
 Fix mode changes while scrolled in virtual desktop mode
 Store current resolution seperately in grayscale mode so it doesn't get wiped when changing to external and back again.
 
-30Video_Update_v1.0.0.1911-beta
+30Video_GS_Update_v1.0.0.1911-beta
 
 Fix versioning.
 Fix Macsbug not returning cleanly
@@ -11,7 +15,7 @@ Introduce Virtual desktop (512x684) mode for grayscale under Mac OS (disabled fo
 Load timings from ROM.
 Safety fix for running 2 30video in same system.
 
-30Video_Update_v1.0.1724-rel
+30Video_GS_Update_v1.0.1724-rel
 
 Shipping firmware.
 
