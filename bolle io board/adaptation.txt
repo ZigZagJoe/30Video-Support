@@ -1,0 +1,21 @@
+Bolle's IO board VGA connector is wired 1:1 with the header on the rear.
+
+30Video -> Bolle IO pin
+
+	NC -> (no connection)
+	NC -> (no connection)
+    Ground -> 5
+    Blue Video -> 3
+    Ground -> 10
+    Green Video -> 2
+    Ground -> 8
+    Red Video -> 1
+    Ground -> 7
+    HSync -> 13
+    VSync -> 14
+    Sense -> 6
+
+Tested to work with: KF86X-ED-15S-BR, use standoffs from my cable
+Should also work: Amphenol ICC 10090929-S156VLF https://www.digikey.com/en/products/detail/amphenol-cs-fci/10090929-S156VLF/4570129
+
+Thanks to Reasons. for this info!!
