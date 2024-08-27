@@ -1,3 +1,7 @@
+30Video 1941-beta-XGA
+
+Adds a nonstandard XGA resolution @54hz. Works on 4 of my monitors, but functionality is not guarenteed.
+
 30Video_SI_Update_v1.0.0.1926-rel.bin
 
 First version for SI card. Includes changes from GS card, except where those functions concern grayscale functionality.
