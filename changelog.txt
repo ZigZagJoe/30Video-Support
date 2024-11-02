@@ -1,17 +1,47 @@
-30Video 1941-beta-XGA
+### 30Video SI/GS Update_v1.0.0.2067-RC
+
+Release-Candidate containing the following changes:
+
+	Fix Macsbug not returning cleanly
+	Introduce Virtual desktop (512x684) mode for grayscale under Mac OS
+	Bugfixes for virtual desktop on machines with two video cards :)
+	Load video timings from ROM.
+	Fix for running 2 30video cards in same system.
+	Store current resolution seperately in grayscale mode 
+	Add nonstandard 1024x768 (XGA) resolution @ 54hz (functionality not guarenteed with all monitors)
+	Introduce backend support for hardware supporting 16 bit color
+	
+If all goes well with testing this will become the new shipping ROM version.
+
+### 30Video SI/GS Update_v1.0.0.2065-BETA
+
+Same as RC build 2067 (see above), but with software 16 bit color support enabled.
+Preview of functionality: https://www.youtube.com/watch?v=6G5gZ5Tkv4s
+
+NOTE! This mode is not really suited for normal use. The following limitations apply:
+
+*  16bpp depth is software supported: It is expected to be much slower than other video modes. 
+*  Screen refresh rate is a rolling 1hz except for mouse pointer. 
+*  Only 640x480 is supported, and on external display only
+*  There is a continuous CPU load at all times while in 16bpp mode. 
+*  16bpp mode is only possible under Mac OS, will not work under A/UX.
+
+For these reasons this is essentially a tech-demo and is unlikely to be rolled into release firmware, but it is here for experimentation. Bugs may be present.
+
+### 30Video 1941-beta-XGA
 
 Adds a nonstandard XGA resolution @54hz. Works on 4 of my monitors, but functionality is not guarenteed.
 
-30Video_SI_Update_v1.0.0.1926-rel.bin
+### 30Video_SI_Update_v1.0.0.1926-rel.bin
 
 First version for SI card. Includes changes from GS card, except where those functions concern grayscale functionality.
 
-30Video_GS_Update_v1.0.0.1917-beta
+### 30Video_GS_Update_v1.0.0.1917-beta
 
 Fix mode changes while scrolled in virtual desktop mode
 Store current resolution seperately in grayscale mode so it doesn't get wiped when changing to external and back again.
 
-30Video_GS_Update_v1.0.0.1911-beta
+### 30Video_GS_Update_v1.0.0.1911-beta
 
 Fix versioning.
 Fix Macsbug not returning cleanly
@@ -19,7 +49,7 @@ Introduce Virtual desktop (512x684) mode for grayscale under Mac OS (disabled fo
 Load timings from ROM.
 Safety fix for running 2 30video in same system.
 
-30Video_GS_Update_v1.0.1724-rel
+### 30Video_GS_Update_v1.0.1724-rel
 
 Shipping firmware.
 
