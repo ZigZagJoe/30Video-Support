@@ -1,4 +1,4 @@
-### 30Video SI/GS Update_v1.0.0.2067-RC
+### 30Video SI/GS v1.0.0.2100 / 2101 RC
 
 Release-Candidate containing the following changes:
 
@@ -10,12 +10,13 @@ Release-Candidate containing the following changes:
 	Store current resolution seperately in grayscale mode 
 	Add nonstandard 1024x768 (XGA) resolution @ 54hz (functionality not guarenteed with all monitors)
 	Introduce backend support for hardware supporting 16 bit color
+	Fixed virtual desktop behavior in 24 bit mode (over previous RC)
 	
 If all goes well with testing this will become the new shipping ROM version.
 
-### 30Video SI/GS Update_v1.0.0.2065-BETA
+### 30Video SI/GS v1.0.0.2098 / 2099 Beta
 
-Same as RC build 2067 (see above), but with software 16 bit color support enabled.
+Same as RC build 2100 (see above) with software 16 bit color support enabled.
 Preview of functionality: https://www.youtube.com/watch?v=6G5gZ5Tkv4s
 
 NOTE! This mode is not really suited for normal use. The following limitations apply:
