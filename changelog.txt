@@ -1,3 +1,7 @@
+### 30Video HC 2129 BETA
+
+Don't disable the video during mode32 memory test
+
 ### 30Video HC v1.0.0.2122 REL
 
 Initial release of firmware for the HC (high-color) cards. 
