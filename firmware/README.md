@@ -1,5 +1,3 @@
-Grab the firmware file from https://github.com/ZigZagJoe/30Video-Support/tree/main/firmware
-
 *************************************************************************
 ***** Please take care to get the appropriate version for your card! **** 
 * Your card may not operate correctly if the wrong firmware is loaded!  *
