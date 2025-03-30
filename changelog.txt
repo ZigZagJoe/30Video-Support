@@ -1,3 +1,10 @@
+### 30Video Builds 2129+:
+
+Update firmware update utility to be 24 bit safe.
+Update firmware update utility to verify the card ID before flashing. Card IDs will change during later updates to support this, but they won't complain when flashing an earlier card. Please take care that you pick the right card model.
+
+NOTE: All earlier versions of the flasher are not 24 bit safe. Please run in 32 bit mode to update card firmware if there's a need to use them.
+
 ### 30Video HC 2129 BETA
 
 Don't disable the video during mode32 memory test
