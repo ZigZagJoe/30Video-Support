@@ -1,3 +1,18 @@
+### 30Video HC 2247 RC
+Release-Candidate supporting all models of HC cards including 2.0
+		
+Correct an issue preventing 30Video HC cards from booting A/UX
+Merged grayscale support for V2 HC+GS cards	
+Minor quality of life changes.
+			
+-------
+			
+Known Issue with 30Video + A/UX: 
+
+Symptom: A/UX Mac environment screen wraps around/overwrites or is letterboxed after connecting external video. 
+Workaround: Open monitors control panel, close it, then reboot. Issue will be resolved on subsequent boots.
+Mitigation: Resolution changes should be performed inside A/UX using Monitors control panel when possible.
+
 ### 30Video Builds 2129+:
 
 Update firmware update utility to be 24 bit safe.
