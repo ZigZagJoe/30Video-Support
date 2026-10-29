@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C2, C4, C5, C6",0805,4,22uF,C45783
+F1,1206,1,1A,C70082
+J1,Hirose DF9-31S-1V32,1,DF9-31S-1V32,
+J2,Hybrid BergJST-XH-6 + Brightness,1,Conn_01x06_Pin,
+J3,Molex 541325097_Handsolder,1,Conn_01x50_MountingPin,C11063
+J5,Molex 532610871,1,532610871,C293349
+"L1, L2",0805,2,600Ω@100MHz,C1017
+Q1,SOT-23_Handsoldering,1,MMBT3904,C20526
+Q2,SOT-23_Handsoldering,1,FDN340P,
+"R1, R2",0603,2,1K,C21190
+RV1,Bourns 3306F1103,1,10K,
